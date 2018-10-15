@@ -1,3 +1,4 @@
+% Mr. Linseman
 var isFull : boolean := false %Water level is empty to start
 var wLevel : int % If wLevel is 10 then sink is full
 var numDishes : int % The number of dishes to clean
